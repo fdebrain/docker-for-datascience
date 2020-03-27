@@ -7,4 +7,4 @@
 **3. Connect to the dashboard:** In your browser, open http://localhost:5006/dashboard
 
 # Dashboard overview
-![Dashboard overview](dashboard_screenshot.png)
+![Dashboard overview](dl_dashboard_screenshot.png)
