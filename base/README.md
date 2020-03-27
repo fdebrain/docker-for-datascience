@@ -1,4 +1,4 @@
-**How it works:**
+# How it works
 
 **1. Build container:** `docker build -t base_docker_datascience .`
 
