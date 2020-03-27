@@ -1,4 +1,5 @@
 # Docker for Datascience
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This repo is a collection of docker templates for your data science projects with easy-to-run examples.
 
