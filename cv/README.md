@@ -1,3 +1,5 @@
+[![Docker Hub](https://img.shields.io/docker/pulls/fdebrain/cv_docker_datascience.svg)](https://hub.docker.com/repository/docker/fdebrain/cv_docker_datascience)
+
 # How it works
 
 **1. Build container:** `docker build -t cv_docker_datascience .`
