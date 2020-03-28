@@ -11,4 +11,5 @@
 
 # Credits
 https://github.com/log0/video_streaming_with_flask_example
+
 https://github.com/informramiz/Face-Detection-OpenCV
